@@ -84,19 +84,14 @@ class TuringPrompter:
 
 # Senaryo
 senaryo = [
-    "Merhaba, ben Stajyer Mühendis Mehmet Akif Ürey.",
-    "TuringLab projemin demo sunumuna hoş geldiniz.",
-    "Bu projede, Turing makinelerini simüle eden bir Python motoru geliştirdim.",
-    "(ŞİMDİ TERMİNALDEN UNARY_TO_BINARY MAKİNESİNİ ÇALIŞTIR)",
-    "Ekranda gördüğünüz gibi makine 1'leri sayıp binary karşılığını yazıyor.",
-    "(ŞİMDİ BINARY_COMPARE MAKİNESİNİ ÇALIŞTIR)",
-    "Bu makine ise iki sayıyı zikzak çizerek karşılaştırıyor.",
-    "Zorunlu kısımlara ek olarak Çoklu Şerit Bonus modülünü de ekledim.",
-    "(ŞİMDİ MULTI_TAPE MAKİNESİNİ ÇALIŞTIR)",
-    "Yazdığım motor sayesinde kopyalama işlemi O(n) hızında bitiyor.",
-    "Ayrıca projeye meşhur 'Busy Beaver' makinesini...",
-    "... ve YAML kodlarımı diyagramlara çeviren bir aracı da ekledim.",
-    "İzlediğiniz için teşekkür ederim."
+    "Merhaba, ben Mehmet Akif Ürey.",
+    "Örnek Metin, Örnek Metin,Örnek Metin",
+    "Örnek Metin, Örnek Metin",
+    "Örnek Metin",
+    "Örnek Metin, Örnek Metin",
+    "Örnek Metin, Örnek Metin, Örnek Metin",
+    "Örnek Metin, Örnek Metin",
+    "Örnek Metin, Örnek Metin,Örnek Metin",
 ]
 
 
